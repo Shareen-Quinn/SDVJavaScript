@@ -65,6 +65,25 @@ if (x) {
     } else {
         console.log('No')
       }
+      x = '1234567'
+console.log(typeof x)
+let y =Number (x)
+//console.log(Number(x)) convert it to a data type number. Y to be the NUMBER  c '1234567'
+console.log(Number (x))
+console.log(typeof y)
+
+const a = 1+1
+console.log(a +2)
+const PI = 3.141592653589
+const b = a +2
+console.log (b)
+
+
+
+
+
+
+
 
 
 
