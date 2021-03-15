@@ -59,6 +59,14 @@ if (typeof x === 'number') {
     console.log('error')
 } 
 
+x = 'country'
+if (x) {
+    console.log('yes')
+    } else {
+        console.log('No')
+      }
+
+
 
 
 
