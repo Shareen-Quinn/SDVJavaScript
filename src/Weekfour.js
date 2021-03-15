@@ -78,6 +78,26 @@ const PI = 3.141592653589
 const b = a +2
 console.log (b)
 
+const obj = {
+    student : 'Sharleen',
+    country : 'New Zealand',
+    city : 'Nelson',
+    Postcode : 7010
+}
+    
+console.log(obj)
+
+const myInfo = {
+    student : '123654',
+    school : 'NMIT',
+    degree : 'Diplomia in IT',
+    graduation : 2021
+}
+console.log(myInfo)
+
+
+
+
 
 
 
